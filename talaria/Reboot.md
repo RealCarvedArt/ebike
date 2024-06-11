@@ -1,13 +1,15 @@
-1)  To reboot/reset the display/controller
+## To reboot/reset the display/controller
 
-2)  Turn OFF the breaker
+1)  Turn OFF the breaker
 
-3)  Turn ON the key/ignition
+2)  Turn ON the key/ignition
 
-4)  Wait for the screen to die
+3)  Wait for the screen to die
 
-5)  Turn OFF the key/ignition
+4)  Turn OFF the key/ignition
 
-6)  Turn ON the Breaker
+5)  Turn ON the Breaker
 
-7)  Turn ON the key/ignition
+6)  Turn ON the key/ignition
+
+7)  Done!
